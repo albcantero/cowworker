@@ -15,3 +15,10 @@ next.user-config.*
 node_modules/
 .next/
 .DS_Store
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Next.js auto-generated
+next-env.d.ts
