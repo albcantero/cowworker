@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stella - Strict commander star cow -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="#E8E8F0"/>
+  <ellipse cx="50" cy="70" rx="20" ry="15" fill="#D4D4E8"/>
+  <!-- Pointed ears -->
+  <ellipse cx="18" cy="32" rx="10" ry="6" fill="#E8E8F0" transform="rotate(-40 18 32)"/>
+  <ellipse cx="82" cy="32" rx="10" ry="6" fill="#E8E8F0" transform="rotate(40 82 32)"/>
+  <!-- Dark spots -->
+  <ellipse cx="30" cy="40" rx="12" ry="10" fill="#2F2F4F"/>
+  <ellipse cx="72" cy="45" rx="10" ry="8" fill="#2F2F4F"/>
+  <!-- Stern eyes -->
+  <circle cx="38" cy="50" r="5" fill="#1a1a2e"/>
+  <circle cx="62" cy="50" r="5" fill="#1a1a2e"/>
+  <circle cx="39" cy="49" r="1.5" fill="white"/>
+  <circle cx="63" cy="49" r="1.5" fill="white"/>
+  <!-- Stern eyebrows -->
+  <path d="M 30 44 L 44 48" stroke="#1a1a2e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 70 44 L 56 48" stroke="#1a1a2e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Nostrils -->
+  <ellipse cx="44" cy="72" rx="3" ry="4" fill="#B4B4C8"/>
+  <ellipse cx="56" cy="72" rx="3" ry="4" fill="#B4B4C8"/>
+  <!-- Firm mouth -->
+  <path d="M 43 78 L 57 78" stroke="#4F4F6F" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Commander star -->
+  <polygon points="50,15 52,21 58,21 53,25 55,31 50,27 45,31 47,25 42,21 48,21" fill="#FFD700"/>
+</svg>

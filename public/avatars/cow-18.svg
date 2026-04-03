@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Maple - Calm observer autumn cow -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="#FFF5E6"/>
+  <ellipse cx="50" cy="70" rx="20" ry="15" fill="#FFE4C4"/>
+  <!-- Soft ears -->
+  <ellipse cx="18" cy="38" rx="10" ry="6" fill="#FFF5E6" transform="rotate(-25 18 38)"/>
+  <ellipse cx="82" cy="38" rx="10" ry="6" fill="#FFF5E6" transform="rotate(25 82 38)"/>
+  <ellipse cx="18" cy="38" rx="6" ry="4" fill="#CD853F" transform="rotate(-25 18 38)"/>
+  <ellipse cx="82" cy="38" rx="6" ry="4" fill="#CD853F" transform="rotate(25 82 38)"/>
+  <!-- Autumn orange spots -->
+  <ellipse cx="33" cy="44" rx="10" ry="8" fill="#D2691E"/>
+  <ellipse cx="68" cy="48" rx="8" ry="6" fill="#D2691E"/>
+  <!-- Observing calm eyes -->
+  <ellipse cx="38" cy="50" rx="5" ry="4" fill="#5C4033"/>
+  <ellipse cx="62" cy="50" rx="5" ry="4" fill="#5C4033"/>
+  <circle cx="39" cy="50" r="2" fill="white"/>
+  <circle cx="63" cy="50" r="2" fill="white"/>
+  <!-- Nostrils -->
+  <ellipse cx="44" cy="72" rx="3" ry="3" fill="#DEB887"/>
+  <ellipse cx="56" cy="72" rx="3" ry="3" fill="#DEB887"/>
+  <!-- Peaceful slight smile -->
+  <path d="M 45 77 Q 50 80 55 77" stroke="#8B5A2B" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Maple leaf -->
+  <path d="M 72 20 L 75 25 L 80 23 L 77 28 L 82 30 L 76 32 L 78 38 L 72 34 L 66 38 L 68 32 L 62 30 L 67 28 L 64 23 L 69 25 Z" fill="#FF4500"/>
+  <rect x="71" y="36" width="2" height="6" fill="#8B4513"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dolly - Sweet encourager with bow -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="#FFF5FA"/>
+  <ellipse cx="50" cy="70" rx="20" ry="15" fill="#FFE4EC"/>
+  <!-- Cute ears -->
+  <ellipse cx="18" cy="36" rx="10" ry="6" fill="#FFF5FA" transform="rotate(-30 18 36)"/>
+  <ellipse cx="82" cy="36" rx="10" ry="6" fill="#FFF5FA" transform="rotate(30 82 36)"/>
+  <ellipse cx="18" cy="36" rx="6" ry="4" fill="#FFB6C1" transform="rotate(-30 18 36)"/>
+  <ellipse cx="82" cy="36" rx="6" ry="4" fill="#FFB6C1" transform="rotate(30 82 36)"/>
+  <!-- Soft pink spots -->
+  <ellipse cx="32" cy="44" rx="10" ry="8" fill="#E8B4C8"/>
+  <ellipse cx="70" cy="46" rx="8" ry="6" fill="#E8B4C8"/>
+  <!-- Big sweet eyes -->
+  <circle cx="38" cy="50" r="6" fill="#4A3040"/>
+  <circle cx="62" cy="50" r="6" fill="#4A3040"/>
+  <circle cx="40" cy="48" r="3" fill="white"/>
+  <circle cx="64" cy="48" r="3" fill="white"/>
+  <!-- Eyelashes -->
+  <path d="M 30 45 L 28 42" stroke="#4A3040" stroke-width="1.5"/>
+  <path d="M 34 43 L 33 40" stroke="#4A3040" stroke-width="1.5"/>
+  <path d="M 70 45 L 72 42" stroke="#4A3040" stroke-width="1.5"/>
+  <path d="M 66 43 L 67 40" stroke="#4A3040" stroke-width="1.5"/>
+  <!-- Rosy cheeks -->
+  <ellipse cx="26" cy="58" rx="5" ry="3" fill="#FFB6C1" opacity="0.5"/>
+  <ellipse cx="74" cy="58" rx="5" ry="3" fill="#FFB6C1" opacity="0.5"/>
+  <!-- Nostrils -->
+  <ellipse cx="44" cy="72" rx="3" ry="3" fill="#E8B4C4"/>
+  <ellipse cx="56" cy="72" rx="3" ry="3" fill="#E8B4C4"/>
+  <!-- Sweet smile -->
+  <path d="M 42 77 Q 50 84 58 77" stroke="#D87093" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Bow -->
+  <ellipse cx="25" cy="25" rx="8" ry="5" fill="#FF69B4"/>
+  <ellipse cx="25" cy="25" rx="5" ry="8" fill="#FF69B4"/>
+  <circle cx="25" cy="25" r="3" fill="#FF1493"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Buttercup - Yellow warm sunshine cow -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="#FFF8DC"/>
+  <ellipse cx="50" cy="70" rx="20" ry="15" fill="#FFE4B5"/>
+  <!-- Ears -->
+  <ellipse cx="18" cy="36" rx="10" ry="6" fill="#FFF8DC" transform="rotate(-30 18 36)"/>
+  <ellipse cx="82" cy="36" rx="10" ry="6" fill="#FFF8DC" transform="rotate(30 82 36)"/>
+  <ellipse cx="18" cy="36" rx="6" ry="4" fill="#FFD700" transform="rotate(-30 18 36)"/>
+  <ellipse cx="82" cy="36" rx="6" ry="4" fill="#FFD700" transform="rotate(30 82 36)"/>
+  <!-- Golden spots -->
+  <ellipse cx="33" cy="44" rx="10" ry="8" fill="#F4A460"/>
+  <ellipse cx="68" cy="46" rx="7" ry="6" fill="#F4A460"/>
+  <!-- Happy closed eyes (pure joy) -->
+  <path d="M 32 50 Q 38 46 44 50" stroke="#8B4513" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M 56 50 Q 62 46 68 50" stroke="#8B4513" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Rosy cheeks -->
+  <ellipse cx="28" cy="56" rx="5" ry="3" fill="#FFA07A" opacity="0.5"/>
+  <ellipse cx="72" cy="56" rx="5" ry="3" fill="#FFA07A" opacity="0.5"/>
+  <!-- Nostrils -->
+  <ellipse cx="44" cy="72" rx="3" ry="3" fill="#DEB887"/>
+  <ellipse cx="56" cy="72" rx="3" ry="3" fill="#DEB887"/>
+  <!-- Big happy smile -->
+  <path d="M 38 77 Q 50 88 62 77" stroke="#CD853F" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Buttercup flower -->
+  <circle cx="75" cy="24" r="5" fill="#FFD700"/>
+  <circle cx="75" cy="24" r="2" fill="#FFA500"/>
+</svg>

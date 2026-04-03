@@ -1,0 +1,32 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flora - Gentle guide with nature theme -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="#F5FFF5"/>
+  <ellipse cx="50" cy="70" rx="20" ry="15" fill="#E8FFE8"/>
+  <!-- Soft ears -->
+  <ellipse cx="18" cy="38" rx="10" ry="6" fill="#F5FFF5" transform="rotate(-25 18 38)"/>
+  <ellipse cx="82" cy="38" rx="10" ry="6" fill="#F5FFF5" transform="rotate(25 82 38)"/>
+  <ellipse cx="18" cy="38" rx="6" ry="4" fill="#B8E0B8" transform="rotate(-25 18 38)"/>
+  <ellipse cx="82" cy="38" rx="6" ry="4" fill="#B8E0B8" transform="rotate(25 82 38)"/>
+  <!-- Soft green spots -->
+  <ellipse cx="33" cy="44" rx="10" ry="8" fill="#90C890"/>
+  <ellipse cx="68" cy="48" rx="8" ry="6" fill="#90C890"/>
+  <!-- Gentle eyes -->
+  <circle cx="38" cy="50" r="5" fill="#3D5C3D"/>
+  <circle cx="62" cy="50" r="5" fill="#3D5C3D"/>
+  <circle cx="39" cy="49" r="2" fill="white"/>
+  <circle cx="63" cy="49" r="2" fill="white"/>
+  <!-- Soft blush -->
+  <ellipse cx="28" cy="56" rx="5" ry="3" fill="#C8E8C8" opacity="0.6"/>
+  <ellipse cx="72" cy="56" rx="5" ry="3" fill="#C8E8C8" opacity="0.6"/>
+  <!-- Nostrils -->
+  <ellipse cx="44" cy="72" rx="3" ry="3" fill="#B8D8B8"/>
+  <ellipse cx="56" cy="72" rx="3" ry="3" fill="#B8D8B8"/>
+  <!-- Gentle smile -->
+  <path d="M 43 77 Q 50 82 57 77" stroke="#5C8C5C" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Flower crown -->
+  <circle cx="35" cy="25" r="4" fill="#FF69B4"/>
+  <circle cx="50" cy="22" r="5" fill="#FFB6C1"/>
+  <circle cx="65" cy="25" r="4" fill="#FF69B4"/>
+  <circle cx="42" cy="20" r="3" fill="#FFA07A"/>
+  <circle cx="58" cy="20" r="3" fill="#FFA07A"/>
+</svg>

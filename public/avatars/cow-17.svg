@@ -1,0 +1,28 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rex - Drill sergeant intense cow -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="#E8E0D8"/>
+  <ellipse cx="50" cy="70" rx="20" ry="15" fill="#D4C4B4"/>
+  <!-- Sharp ears -->
+  <ellipse cx="16" cy="32" rx="10" ry="6" fill="#E8E0D8" transform="rotate(-45 16 32)"/>
+  <ellipse cx="84" cy="32" rx="10" ry="6" fill="#E8E0D8" transform="rotate(45 84 32)"/>
+  <!-- Dark intimidating spots -->
+  <ellipse cx="28" cy="38" rx="14" ry="12" fill="#3D3D3D"/>
+  <ellipse cx="72" cy="42" rx="13" ry="11" fill="#3D3D3D"/>
+  <ellipse cx="50" cy="34" rx="8" ry="6" fill="#3D3D3D"/>
+  <!-- Intense eyes -->
+  <circle cx="38" cy="50" r="5" fill="#1a1a1a"/>
+  <circle cx="62" cy="50" r="5" fill="#1a1a1a"/>
+  <circle cx="39" cy="49" r="1.5" fill="#FF4500"/>
+  <circle cx="63" cy="49" r="1.5" fill="#FF4500"/>
+  <!-- Angry eyebrows -->
+  <path d="M 28 42 L 46 50" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 72 42 L 54 50" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Flared nostrils -->
+  <ellipse cx="44" cy="72" rx="4" ry="5" fill="#A08070"/>
+  <ellipse cx="56" cy="72" rx="4" ry="5" fill="#A08070"/>
+  <!-- Stern mouth -->
+  <path d="M 42 80 L 58 80" stroke="#3D3D3D" stroke-width="3" stroke-linecap="round"/>
+  <!-- Army helmet -->
+  <ellipse cx="50" cy="28" rx="28" ry="14" fill="#4A5D23"/>
+  <rect x="22" y="26" width="56" height="8" fill="#4A5D23"/>
+</svg>
